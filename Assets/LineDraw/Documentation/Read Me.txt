@@ -1,0 +1,41 @@
+
+Easy 2D Lines
+Gandhi Games
+
+A straightforward line drawing tool. Quick and easy to setup (see the demo scene for example usage).
+
+There are two main classes: LineFactory and Line.
+
+The LineFactory class is responsible for creating and retrieving lines. 
+
+The main property:
+
+public int maxLines
+
+The LineFactory Instantiates this many lines at runtime. The lines are disabled and only activated when a line is requested by the user. This number is the maximum number of lines that can be retrieved from this factory. If a number of lines greater than this number is requested, then previous lines are overwritten; so it is important to set the correct number here.
+
+The main methods:
+
+public Line GetLine (Vector2 start, Vector2 end, float width, Color color) 
+
+Initialises and activates a line with the specified data.
+
+public List<Line> GetActive() 
+
+Returns a list of active lines.
+
+Once you have a reference to a line you can change the following properties:
+
+start: the lines start position.
+end: this lines end position.
+width: the lines width.
+color: the lines color.
+
+When any of these properties are set, the line is updated accordingly.
+
+And that?s pretty much it. If you find any bugs, or have any other questions, please email me at: robert.wells@gandhigames.co.uk
+
+
+
+
+

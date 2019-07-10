@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Danila\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Danila\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Danila\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_NodeLogic.1352278659.00" t="ExcludeRecursive" />
+    <e p="E:\Code\Unity\Projects\NodeLogic" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="LineDraw" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="Read Me.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Extensions.cs" t="Include" />
+            <e p="Line.cs" t="Include" />
+            <e p="LineFactory.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Extenshions.cs" t="Include" />
+          <e p="MainManager.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="Nodes" t="Include">
+            <e p="And.cs" t="Include" />
+            <e p="BitDisplay.cs" t="Include" />
+            <e p="Clock.cs" t="Include" />
+            <e p="ColorDisplay.cs" t="Include" />
+            <e p="Delayer.cs" t="Include" />
+            <e p="EditableNode.cs" t="Include" />
+            <e p="JKFlipFlop.cs" t="Include" />
+            <e p="Label.cs" t="Include" />
+            <e p="Nand.cs" t="Include" />
+            <e p="Nor.cs" t="Include" />
+            <e p="Not.cs" t="Include" />
+            <e p="Or.cs" t="Include" />
+            <e p="Pulse.cs" t="Include" />
+            <e p="PushButton.cs" t="Include" />
+            <e p="SRLatch.cs" t="Include" />
+            <e p="ToggleButton.cs" t="Include" />
+            <e p="XNor.cs" t="Include" />
+            <e p="Xor.cs" t="Include" />
+          </e>
+          <e p="Point.cs" t="Include" />
+          <e p="PointIn.cs" t="Include" />
+          <e p="PointOut.cs" t="Include" />
+          <e p="SaveManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="NodeLogic.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
