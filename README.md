@@ -12,10 +12,6 @@ Input:
 
     Delete-delete node
 
-Description:
-
-Simple logic simulator made on unity.
-
 Have all basic and more other logic gates:
 
     And
