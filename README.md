@@ -1,5 +1,7 @@
 # NodeLogic
 
+![prev](https://img.itch.zone/aW1nLzIyNjk1NTAuZ2lm/original/%2Fc0pCp.gif)
+
 Input:
 
     MouseButtonLeft - move nodes,connect and select
@@ -31,6 +33,9 @@ Have all basic and more other logic gates:
     Bit display
     RGB display with 9 colors
     Label
+
+
+Game: https://maximovink.itch.io/nodelogic
 
 ​Video demonstation:
 
